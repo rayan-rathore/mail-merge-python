@@ -26,6 +26,7 @@ It was built as part of Python challenge to practice file handling, string manip
 ---
 
 ## 📁 Project Structure
+"""
 mail-merge-python/
 │
 ├── main.py
@@ -37,6 +38,7 @@ mail-merge-python/
 │ └── ready_to_send/
 │
 └── README.md
+"""
 
 🧠 What I Learned
 ---

@@ -26,19 +26,16 @@ It was built as part of Python challenge to practice file handling, string manip
 ---
 
 ## 📁 Project Structure
-"""
-mail-merge-python/
-│
+
+"""mail-merge-python/
 ├── main.py
 ├── input/
-│ ├── names.txt
-│ └── letter_template.txt
-│
+│   ├── names.txt
+│   └── letter_template.txt
 ├── output/
-│ └── ready_to_send/
-│
-└── README.md
-"""
+│   └── ready_to_send/
+└── README.md"""
+
 
 🧠 What I Learned
 ---

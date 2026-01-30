@@ -37,6 +37,12 @@ mail-merge-python/
 └── README.md
 </pre>
 
+<img width="647" height="342" alt="Screenshot 2026-01-30 062746" src="https://github.com/user-attachments/assets/454a5dcc-2f14-4945-b068-66c582fe0d2d" />
+<img width="640" height="312" alt="Screenshot 2026-01-30 062719" src="https://github.com/user-attachments/assets/aa9ad58e-7b20-482f-81f5-a7ab3d70a6f8" />
+<img width="648" height="356" alt="Screenshot 2026-01-30 062756" src="https://github.com/user-attachments/assets/10eb684c-83a3-49ee-a40b-5b1a91fffee4" />
+
+
+
 
 🧠 What I Learned
 ---
